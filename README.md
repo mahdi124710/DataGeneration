@@ -4,7 +4,7 @@ This project is inspired by mlfinlab data generation folder, but all of the code
 For more information on how to use the functions check the jupyter notebook added to the project. 
 All of the reference papers are mentioned above each function. 
 
-You can see the implemented methods with some visualization below. 
+You can see some of the implemented methods with some visualization below. 
 
 ## Correlated Random Walks
 ![image](https://user-images.githubusercontent.com/36361539/184535768-95d1cf8e-2128-435e-979f-c1800bb509b3.png)
