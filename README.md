@@ -9,12 +9,14 @@ Methods for synthetic correlation matrix generation:
 + D-Vine
 + Extended Onion
 + HCBM
+
 Methods for verifying correlation matrix properties:
 + Marchenko-Pastur
 + Perron-Frobenius
 + Hierarchical Structure
 + Scale-free MST
 + Distribution of pairwise correlation
+
 Methods for discovering time series dependencies:
 + GPR
 + GNPR
