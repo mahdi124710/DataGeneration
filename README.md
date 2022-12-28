@@ -1,8 +1,4 @@
 # DataGeneration
-
-The mlfinlab data generation folder inspires this project, but all codes are implemented independently. For more information on how to use the functions, check the Jupyter Notebook added to the project. All of the reference papers are mentioned in each function's docstring.
-You can see the visualization of some of the implemented methods below.
-
 Methods for synthetic correlation matrix generation: 
 + CorrGAN
 + C-Vine
@@ -20,6 +16,12 @@ Methods for verifying correlation matrix properties:
 Methods for discovering time series dependencies:
 + GPR
 + GNPR
+
+For more information on how to use the functions, check the Jupyter Notebook added to the project. All of the reference papers are mentioned in each function's docstring.
+
+You can see the visualization of some of the implemented methods below.
+
+The MlFinLab data generation folder, which is not free, inspires this project, but all codes are implemented independently.
 
 ## Correlated Random Walks
 ![image](https://user-images.githubusercontent.com/36361539/184535768-95d1cf8e-2128-435e-979f-c1800bb509b3.png)
